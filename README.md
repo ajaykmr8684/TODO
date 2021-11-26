@@ -7,3 +7,6 @@ Questions left behind:
 
 2. Ring Rotate
  https://www.pepcoding.com/resources/online-java-foundation/2d-arrays/ring-rotate-official/ojquestion
+ 
+ 3. All Array in indices 
+  https://www.pepcoding.com/resources/online-java-foundation/recursion-in-arrays/all-indices-official/ojquestion
