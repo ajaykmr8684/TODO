@@ -10,3 +10,6 @@ Questions left behind:
  
  3. All Array in indices 
   https://www.pepcoding.com/resources/online-java-foundation/recursion-in-arrays/all-indices-official/ojquestion
+  
+ 4. Print Encodings
+ https://www.pepcoding.com/resources/online-java-foundation/recursion-on-the-way-up/print-encodings-official/ojquestion
