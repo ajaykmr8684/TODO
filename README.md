@@ -13,3 +13,9 @@ Questions left behind:
   
  4. Print Encodings
  https://www.pepcoding.com/resources/online-java-foundation/recursion-on-the-way-up/print-encodings-official/ojquestion
+ 
+ 5. Count Sort
+ https://www.pepcoding.com/resources/online-java-foundation/time-and-space-complexity/count-sort-official/ojquestion
+ 
+ 6. Redix Sort
+ https://www.pepcoding.com/resources/online-java-foundation/time-and-space-complexity/radix-sort-official/ojquestion
