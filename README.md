@@ -23,3 +23,5 @@ Questions left behind:
  7. Recursion from Striver
 
  8. DP from Striver 
+ 
+ 9. Minimum Swap problem
