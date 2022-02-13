@@ -22,7 +22,7 @@ Questions left behind:
 
  7. Recursion from Striver
 
- 8. DP from Striver 
+ 8. DP from Striver, Aditya 
  
  9. Minimum Swap problem - Coding minutes
  
